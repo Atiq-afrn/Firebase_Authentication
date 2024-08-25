@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893987720447",
+    "project_id": "shafiqfirebase",
+    "storage_bucket": "shafiqfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893987720447:android:572eb996b031025a6910ca",
+        "android_client_info": {
+          "package_name": "com.example.flutter_a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPx1F4Dv_QBnaZD-O2MmPRYWTrHWgbVxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
